@@ -1,6 +1,6 @@
 # Asmussen Technology
 
-## Members:
+## The Team:
 - BastianAsmussen (Founder)
 - ConsoleBeep (Member)
 - komand33448 (Member)
