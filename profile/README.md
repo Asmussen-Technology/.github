@@ -1,6 +1,6 @@
 # Asmussen Technology
 
 ## The Team:
-- BastianAsmussen (Founder)
-- consoleBeep (Admin)
+- BastianAsmussen (Owner)
+- consoleBeep (Member)
 - komand33448 (Member)
