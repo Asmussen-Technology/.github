@@ -2,5 +2,5 @@
 
 ## The Team:
 - BastianAsmussen (Founder)
-- ConsoleBeep (Member)
+- consoleBeep (Admin)
 - komand33448 (Member)
